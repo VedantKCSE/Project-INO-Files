@@ -1,0 +1,302 @@
+{
+    "Monday": [
+        {
+            "id": 101,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "No Lect."
+        },
+        {
+            "id": 102,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "CD"
+        },
+        {
+            "id": 103,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 104,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "DE/ESD"
+        },
+        {
+            "id": 105,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "IoT"
+        },
+        {
+            "id": 106,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 107,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "ML"
+        },
+        {
+            "id": 108,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "No Lect."
+        }
+    ],
+    "Tuesday": [
+        {
+            "id": 201,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "CP"
+        },
+        {
+            "id": 202,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "CD"
+        },
+        {
+            "id": 203,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 204,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 205,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 206,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 207,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "ML"
+        },
+        {
+            "id": 208,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "CN"
+        }
+    ],
+    "Wednesday": [
+        {
+            "id": 301,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "No Lect."
+        },
+        {
+            "id": 302,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "CD"
+        },
+        {
+            "id": 303,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 304,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 305,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 306,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 307,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "CN"
+        },
+        {
+            "id": 308,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "DE/ESD"
+        }
+    ],
+    "Thursday": [
+        {
+            "id": 401,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "No Lect."
+        },
+        {
+            "id": 402,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "CD"
+        },
+        {
+            "id": 403,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 404,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 405,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 406,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 407,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "ML"
+        },
+        {
+            "id": 408,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "IoT"
+        }
+    ],
+    "Friday": [
+        {
+            "id": 501,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "CN"
+        },
+        {
+            "id": 502,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "IoT"
+        },
+        {
+            "id": 503,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 504,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 505,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "Pract."
+        },
+        {
+            "id": 506,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 507,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "CN"
+        },
+        {
+            "id": 508,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "ML"
+        }
+    ],
+    "Saturday": [
+        {
+            "id": 601,
+            "start_time": "10:30 AM",
+            "end_time": "11:30 AM",
+            "lecture": "CN"
+        },
+        {
+            "id": 602,
+            "start_time": "11:30 AM",
+            "end_time": "12:30 PM",
+            "lecture": "DE/ESD"
+        },
+        {
+            "id": 603,
+            "start_time": "12:30 PM",
+            "end_time": "01:00 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 604,
+            "start_time": "01:00 PM",
+            "end_time": "02:00 PM",
+            "lecture": "IoT"
+        },
+        {
+            "id": 605,
+            "start_time": "02:00 PM",
+            "end_time": "03:00 PM",
+            "lecture": "CD"
+        },
+        {
+            "id": 606,
+            "start_time": "03:00 PM",
+            "end_time": "03:30 PM",
+            "lecture": "Break"
+        },
+        {
+            "id": 607,
+            "start_time": "03:30 PM",
+            "end_time": "04:30 PM",
+            "lecture": "No Lect."
+        },
+        {
+            "id": 608,
+            "start_time": "04:30 PM",
+            "end_time": "05:30 PM",
+            "lecture": "No Lect."
+        }
+    ]
+}
